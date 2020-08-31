@@ -1,0 +1,13 @@
+.navMenuClass {
+    opacity:0.5;
+    
+    transition:all 0.3s ease;
+}
+
+.navMenuClass:hover {
+    opacity:1;
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
